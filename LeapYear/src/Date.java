@@ -2,7 +2,7 @@ public class Date {
    private int year;
    private int month;
    private int day;
-   public Date(int year, int month, int day){
+   public Date(int year1, int month1, int day1){
        this.year = year;
        this.month = month;
        this.day = day;
@@ -23,3 +23,6 @@ public class Date {
        }
    }
 }
+
+
+// artık yıl olup olmadgını kontrol ediyor
